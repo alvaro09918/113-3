@@ -1,0 +1,32 @@
+*
+{
+	margin: 5px;
+	padding:5px;
+}
+body
+{
+	background-color:black;
+	color: #ffffff;
+	font-family: verdana;
+}
+header
+{
+	height: 80px;
+	background-color:#050A37;
+	text-align:center;
+	
+}
+nav
+{
+	height: 50px;
+	background-color:#1CD9DF ;
+}
+img
+{
+	height:60%;
+	width:60%;
+}
+table
+{
+	text-align:center;
+}

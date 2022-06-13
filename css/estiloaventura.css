@@ -1,0 +1,80 @@
+*
+{
+	margin:10px;
+	padding:10px;
+}
+body
+{
+	background-color:#0D3111;
+	color:#ffffff;
+	font-family:impact;
+}
+header
+{
+	height: 80px;
+	background-color:#1D915C ;
+	text-align:center;
+}
+nav
+{
+	height: 50px;
+	background-color:#1CD9DF ;
+}
+#aventura1 img{
+	height:85%;
+	width:30%;
+	float:left;
+	float:top;
+	
+}
+#aventura1{
+	height:400px;
+	background-color:#E6AF10 ;
+}
+#aventura2 img{
+	height:85%;
+	width:30%;
+	float:left;
+	float:top;
+}
+#aventura2{
+	height:350px;
+	background-color:#FABC4E ;
+}	
+#aventura3 img{
+
+	height:85%;
+	width:30%;
+	float:left;
+	float:top;
+
+
+}
+#aventura3{
+	height:400px;
+	background-color:#F15925 ;
+}
+#aventura4 img{
+
+	height:85%;
+	width:30%;
+	float:left;
+	float:top;
+
+}
+#aventura4{
+	height:350px;
+	background-color:#8EF125 ;
+}
+#volver{
+	height:30%%;
+	width:30%;
+	float:left;
+	
+	
+	
+}
+#siguiente{
+	float:right;
+	height:30%;
+	width:30%;

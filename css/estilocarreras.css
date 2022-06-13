@@ -1,0 +1,72 @@
+*
+{
+	margin:10px;
+	padding:10px;
+}
+body
+{
+	background-color:#29EEC7;
+	color:#ffffff;
+}
+header
+{
+	height: 80px;
+	background-color:#163932 ;
+	text-align:center;
+}
+nav
+{
+	height: 50px;
+	background-color:#1CD9DF ;
+}
+#car1 img{
+	height:85%;
+	width:30%;
+	float:left;
+	float:top;
+	
+}
+#car1{
+	height:350px;
+	background-color:#184B22 ;
+}
+#car2 img{
+	height:85%;
+	width:30%;
+	float:left;
+	float:top;
+}
+#car2{
+	height:350px;
+	background-color:#D4D418 ;
+}	
+#car3 img{
+
+	height:85%;
+	width:30%;
+	float:left;
+	float:top;
+
+
+}
+#car3{
+	height:350px;
+	background-color:#122E8C;
+}
+#car4 img{
+
+	height:85%;
+	width:30%;
+	float:left;
+	float:top;
+
+}
+#car4{
+	height:350px;
+	background-color:#37BD4F ;
+}
+#volver{
+	height:30%%;
+	width:30%;
+	float:left;	
+}
